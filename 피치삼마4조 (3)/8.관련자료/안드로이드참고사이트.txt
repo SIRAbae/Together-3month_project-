@@ -1,0 +1,44 @@
+// 색상표 찾는 페이지
+https://encycolorpedia.kr
+
+//메신져 앱 예제
+https://forest71.tistory.com/172
+
+// 스크롤뷰 고찰
+https://yollo.tistory.com/6
+
+// 액션바 텍스트 색상 변경
+http://blog.naver.com/PostView.nhn?blogId=hoyo1744&logNo=221488227810
+
+// 액션바 스타일 및 테마 변경
+http://ankyu.entersoft.kr/Lecture/android/ActionBar_06.asp
+
+// toolbar 타이틀, 버튼, 메뉴 색상 변경
+https://jabstorage.tistory.com/31
+
+// 액션바 버튼 추가 및 사용
+https://hjink247.tistory.com/17
+
+// 액션바 버튼 메뉴 추가하고 꾸미기
+http://blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=220943457624&categoryNo=0&parentCategoryNo=56&viewDate=&currentPage=1&postListTopCurrentPage=1&from=section
+
+// 릴레티브 레이아웃 배치 관련
+https://lsit81.tistory.com/entry/Android-RelativeLayout-%EB%B0%B0%EC%B9%98-%EA%B4%80%EB%A0%A8
+
+// 뷰정렬
+https://m.blog.naver.com/PostView.nhn?blogId=eominsuk55&logNo=220222752164&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+// 릴레티브 레이아웃에서의 속성
+https://recipes4dev.tistory.com/126
+
+// 하단 네비게이션 추가
+https://lesslate.github.io/android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%95%98%EB%8B%A8-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98(Bottom-Navigation)-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/
+
+// 이미지뷰에서 사진의 크기 고찰
+https://recipes4dev.tistory.com/105
+
+// 이미지뷰 예제
+https://bitsoul.tistory.com/49
+
+// 리사이클러 뷰 펼치기 예제
+https://dev-imaec.tistory.com/30
